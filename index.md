@@ -2,7 +2,7 @@
 
 <div style="text-align: center">
 
-# Template
+# Mijn eerste scheikunde boek
 
 </div>
 
