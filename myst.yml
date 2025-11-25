@@ -2,11 +2,11 @@
 version: 1
 project:
   id: 7204695b-7485-4989-863c-16cf6e4db155
-  title: Template
+  title: Scheikunde
   # description:
   # keywords: []
   authors: [Annet]
-  github: https://github.com/TUD-SEEd/template # Change this URL to your GitHub repository
+  github: https://github.com/Annet-IVO/scheikunde # Change this URL to your GitHub repository
   downloads:
     - id: output-pdf
   exports:
