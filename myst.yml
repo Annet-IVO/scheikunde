@@ -5,7 +5,7 @@ project:
   title: Template
   # description:
   # keywords: []
-  authors: [Freek Pols]
+  authors: [Annet]
   github: https://github.com/TUD-SEEd/template # Change this URL to your GitHub repository
   downloads:
     - id: output-pdf
